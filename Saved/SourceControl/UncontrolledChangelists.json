@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"F:/Program Files/GitHub/Obstacle_Assault/Content/Main.umap",
+				"F:/Program Files/GitHub/Obstacle_Assault/Content/BP_ThirdPersonCharacter.uasset",
+				"F:/Program Files/GitHub/Obstacle_Assault/Content/SCK_Casual01/Blueprints/ThirdPersonCharacter.uasset"
+			]
+		}
+	]
+}
